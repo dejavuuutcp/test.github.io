@@ -1,1 +1,2 @@
-# test.github.io
+# pacman -Ss dejavuuu
+# sudo pacman -S dejavuuu
